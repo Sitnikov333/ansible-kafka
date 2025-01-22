@@ -1,7 +1,0 @@
----
-- hosts: kafka_servers
-  become: true
-  roles:
-    - common
-    - docker
-
